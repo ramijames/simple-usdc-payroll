@@ -1,0 +1,14 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "@solidstate/hardhat-bytecode-exporter": "^1.1.1",
+    "hardhat": "^2.20.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.1",
+    "ethers": "^6.11.0",
+    "fs": "^0.0.1-security",
+    "solc": "^0.8.24"
+  }
+}
