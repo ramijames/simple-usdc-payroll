@@ -1,13 +1,3 @@
-# Sample Hardhat Project
+# Simple USDC Payroll
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+This is an example project that allows you to create a list of employees on-chain, with how much each is supposed to be paid on payday. It allows you to hold assets in the contract which can be used to pay those employees.
